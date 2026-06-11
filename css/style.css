@@ -37,7 +37,16 @@ body {
 .layout_margin-bottom {
   margin-bottom: 90px;
 }
-
+.cart-count {
+  background: #ff6b6b;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 8px;
+  font-size: 12px;
+  position: relative;
+  top: -10px;
+  left: -5px;
+}
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
